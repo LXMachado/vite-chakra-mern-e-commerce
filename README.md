@@ -2,6 +2,8 @@
 
 This is a full-stack e-commerce application built using the **MERN stack** (MongoDB, Express, React, Node.js) with **Vite** for the front-end development environment and **Chakra UI** for the component styling. The application includes features such as product management (create, read, update, and delete), and is designed to be modular and scalable.
 
+![Project Screenshot](frontend/public/screenshot-for-readme.png)
+
 ## Features
 
 - **Front-End**: Built with React, using Vite for fast development and Chakra UI for responsive, accessible components.
