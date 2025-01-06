@@ -60,7 +60,7 @@ Create a .env file in the backend directory and add the following variables:
 makefile
 Copy code
 MONGO_URI=<Your MongoDB URI>
-PORT=5000
+PORT=5001
 NODE_ENV=development
 Replace <Your MongoDB URI> with your MongoDB connection string.
 4. Running the Application
@@ -76,7 +76,7 @@ npm run dev
 cd ../frontend
 npm run dev
 The front-end will be running at http://localhost:3000.
-The back-end will be running at http://localhost:5000.
+The back-end will be running at http://localhost:5001.
 5. Build for Production
 To build the front-end for production, run the following:
 
